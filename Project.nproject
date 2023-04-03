@@ -2,7 +2,7 @@
     "name": "Bistro",
     "description": "",
     "guid": "16d45ec3-c1c5-4464-acff-03135ef7b909",
-	"database_guid": "",
+	"database_guid": "3030284e-f632-5605-ce27-c12258f7166f",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [

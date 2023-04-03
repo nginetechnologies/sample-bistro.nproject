@@ -1,15 +1,1 @@
-{
-    "6b350ab9-30c8-83ff-cc47-ae290e52da5b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Bistro_EnviroDiffuse.tex.nasset"
-    },
-    "d39447bd-cf0f-5a98-be1a-392627ba94cf": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Bistro_Enviro.tex.nasset"
-    },
-    "daedff88-48fc-4581-c5c3-c84dda2b9619": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Bistro_EnviroSpecular.tex.nasset"
-    },
-    "guid": "3030284e-f632-5605-ce27-c12258f7166f"
-}
+{"16d45ec3-c1c5-4464-acff-03135ef7b909":{"assetTypeGuid":"01c2c136-57b4-4a69-b2af-3c2ea94c3f49","path":"Project.nproject","name":"Bistro","thumbnail":"6f1e40a6-9817-44af-9c33-163889336252","tags":["f5777f96-a43c-4ebd-872a-1eeda5719aaf"]},"3030284e-f632-5605-ce27-c12258f7166f":{"assetTypeGuid":"77b22fc4-d109-4dd3-a922-38388879fc90","path":"Assets.nassetdb"},"6b350ab9-30c8-83ff-cc47-ae290e52da5b":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Bistro_EnviroDiffuse.tex.nasset"},"a251fd19-d2f1-459d-8a7d-beb454d77303":{"assetTypeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f","componentTypeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f","path":"Assets/M_Gradient_Sky.mtli.nasset","thumbnail":"8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"},"c3171294-2ec3-4d6d-80fb-78beceecb535":{"assetTypeGuid":"807d69a9-56ec-4032-bb92-d081df336672","componentTypeGuid":"2a2bce0a-6314-481b-a5a0-7d01e1c00b35","path":"Assets/Bistro.scene.nasset"},"d39447bd-cf0f-5a98-be1a-392627ba94cf":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Bistro_Enviro.tex.nasset"},"daedff88-48fc-4581-c5c3-c84dda2b9619":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Bistro_EnviroSpecular.tex.nasset"},"fa35b347-2df5-b307-7e33-d4513d1141ea":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Sponza_Skybox.tex.nasset"},"guid":"3030284e-f632-5605-ce27-c12258f7166f"}

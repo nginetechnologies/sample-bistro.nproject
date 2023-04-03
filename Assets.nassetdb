@@ -1,0 +1,15 @@
+{
+    "6b350ab9-30c8-83ff-cc47-ae290e52da5b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Bistro_EnviroDiffuse.tex.nasset"
+    },
+    "d39447bd-cf0f-5a98-be1a-392627ba94cf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Bistro_Enviro.tex.nasset"
+    },
+    "daedff88-48fc-4581-c5c3-c84dda2b9619": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Bistro_EnviroSpecular.tex.nasset"
+    },
+    "guid": "3030284e-f632-5605-ce27-c12258f7166f"
+}

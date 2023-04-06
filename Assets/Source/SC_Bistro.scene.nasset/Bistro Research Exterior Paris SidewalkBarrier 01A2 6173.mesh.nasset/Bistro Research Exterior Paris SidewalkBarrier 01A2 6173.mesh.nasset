@@ -1,0 +1,74 @@
+{
+    "guid": "975059d8-6914-05af-1a4a-ad620fc2ec3a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c6f22457-7193-52c8-a6f5-cfabc4e8a153",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "095b2e61-5980-492b-4c14-996f12b919ad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris SidewalkBarrier 01A2 6173 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "49151649-cbbd-82a4-92bf-8cb9d11e3ff6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris SidewalkBarrier 01A2 6173 Sidewalkbarrier Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b38e7562-72a1-e805-20ee-253ad42eac68",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris SidewalkBarrier 01A2 6173 Sidewalkbarrier"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c2794c8e-54d2-9da7-bfa9-86973f678a6d",
+                                "material_instance": "c511d9ee-51e6-3073-7dd3-464ffc7f7553"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c2794c8e-54d2-9da7-bfa9-86973f678a6d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "975059d8-6914-05af-1a4a-ad620fc2ec3a"
+    },
+    "dependencies": [
+        "c511d9ee-51e6-3073-7dd3-464ffc7f7553",
+        "c2794c8e-54d2-9da7-bfa9-86973f678a6d",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

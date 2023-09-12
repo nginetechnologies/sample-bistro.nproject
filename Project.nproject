@@ -2,7 +2,7 @@
     "name": "Bistro",
     "description": "",
     "guid": "16d45ec3-c1c5-4464-acff-03135ef7b909",
-	"database_guid": "3030284e-f632-5605-ce27-c12258f7166f",
+	"database_guid": "87767b96-6a97-d616-d21a-8a566e13a725",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,7 +13,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "6f1e40a6-9817-44af-9c33-163889336252",
+    "thumbnail_guid": "d297818e-3cd3-74cd-a3f5-b13d1e40e16c",
     "default_scene": "c3171294-2ec3-4d6d-80fb-78beceecb535",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",

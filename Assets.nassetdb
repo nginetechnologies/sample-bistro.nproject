@@ -15,7 +15,10 @@
     "c3171294-2ec3-4d6d-80fb-78beceecb535": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Bistro.scene.nasset"
+        "path": "Assets/Bistro.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-1.9766,2.0051,1.8783],\"rotation\":[-18.9033,0.0,-134.1447]}"
+        }
     },
     "guid": "87767b96-6a97-d616-d21a-8a566e13a725",
     "imported_assets": [

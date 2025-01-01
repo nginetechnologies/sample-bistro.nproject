@@ -17,13 +17,12 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Bistro.scene.nasset",
         "metadata": {
-            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-1.9766,2.0051,1.8783],\"rotation\":[-18.9033,0.0,-134.1447]}"
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.000003814697269,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-7.7866435050964359,-35.37320327758789,6.930554389953613],\"rotation\":[-16.53679656982422,-0.0,-45.36088562011719]}"
         }
     },
     "guid": "87767b96-6a97-d616-d21a-8a566e13a725",
     "imported_assets": [
-        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
-        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "000271a2-ac0f-fb54-eda6-39795d1065ae",
         "0024e83c-415d-2b5c-694d-26192d9c726e",
         "004c3473-8b00-58cf-34ba-e3c3d39bd020",
@@ -1614,6 +1613,7 @@
         "763e20e9-0753-b3f0-f978-758506862ad0",
         "7642d272-8b19-00a4-cb4f-38374e5d0e6b",
         "76432169-21e8-73cb-c7b0-90a619fb9eff",
+        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "768546d1-8965-fc27-2e61-ee159cde9709",
         "768d6fb3-dc11-a401-3187-a8264f059449",
         "76905be0-5ecf-0724-495b-f2b0f47a4bf6",
@@ -2685,6 +2685,7 @@
         "c6d0abce-9ec7-5fe0-43e2-e1991de526e9",
         "c6ebe287-fd2f-546f-eed4-ba67e7151998",
         "c7026807-e843-808e-78a7-e13c395de732",
+        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
         "c72d9ce9-343c-8cbd-583c-5046dac3f2d4",
         "c72ddcfc-9fa6-6b17-d6d1-d96a444370f9",
         "c73017cd-1ce8-f1bc-0f70-bba9ad82816a",
